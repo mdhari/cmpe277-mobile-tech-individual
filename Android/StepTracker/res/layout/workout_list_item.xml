@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/teal" >
+    
+    <TextView
+        android:id="@+id/workout_item_date"
+        android:paddingLeft="20dip"
+        android:textColor="@android:color/white"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:textSize="20dip" />
+    
+    <TextView
+        android:id="@+id/workout_item_steps"
+        android:paddingLeft="20dip"
+        android:textColor="@android:color/white"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:textSize="20dip" />
+    
+    <TextView
+        android:id="@+id/workout_item_cals"
+        android:paddingLeft="20dip"
+        android:textColor="@android:color/white"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:textSize="20dip" />
+    
+
+ 
+
+</LinearLayout>

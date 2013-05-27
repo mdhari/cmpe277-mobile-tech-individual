@@ -1,0 +1,80 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/teal" >
+
+    <TextView
+        android:layout_marginTop="20dip"
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15dip"
+        android:layout_marginRight="15dip"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:text="@string/username"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="@android:color/white" />
+
+    <AutoCompleteTextView
+        android:id="@+id/username"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dip"
+        android:layout_marginRight="20dip"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/textView1"
+        android:ems="10"
+        android:inputType="textEmailAddress"
+        android:hint="@string/username_hint" >
+
+    </AutoCompleteTextView>
+
+<!--     <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15dip"
+        android:layout_marginRight="15dip"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/username"
+        android:text="@string/password"
+        android:textColor="@android:color/white"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <EditText
+        android:id="@+id/password"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dip"
+        android:layout_marginRight="20dip"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/textView2"
+        android:ems="10"
+        android:inputType="textPassword" /> -->
+
+    <Button
+        android:id="@+id/login_btn"
+        android:layout_width="100dip"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="20dip"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/username"
+        android:layout_marginTop="22dp"
+        android:text="@string/login" />
+    
+    <TextView 
+        android:layout_below="@+id/login_btn"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:textColor="@android:color/white"
+        android:layout_marginLeft="20dip"
+        android:layout_marginRight="20dip"
+        android:textStyle="italic"
+        android:text="Just let a user use any username they want for this app..."/>
+        
+
+</RelativeLayout>
