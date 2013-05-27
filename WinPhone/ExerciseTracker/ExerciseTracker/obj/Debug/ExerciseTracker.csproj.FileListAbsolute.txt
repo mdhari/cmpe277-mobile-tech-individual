@@ -1,0 +1,17 @@
+C:\Users\Michael\Documents\cmpe_277_mobile_app_dev\ExerciseTracker\ExerciseTracker\Bin\Debug\Background.png
+C:\Users\Michael\Documents\cmpe_277_mobile_app_dev\ExerciseTracker\ExerciseTracker\Bin\Debug\ExerciseTracker.dll
+C:\Users\Michael\Documents\cmpe_277_mobile_app_dev\ExerciseTracker\ExerciseTracker\Bin\Debug\ExerciseTracker.pdb
+C:\Users\Michael\Documents\cmpe_277_mobile_app_dev\ExerciseTracker\ExerciseTracker\Bin\Debug\AppManifest.xaml
+C:\Users\Michael\Documents\cmpe_277_mobile_app_dev\ExerciseTracker\ExerciseTracker\Bin\Debug\ExerciseTracker.xap
+C:\Users\Michael\Documents\cmpe_277_mobile_app_dev\ExerciseTracker\ExerciseTracker\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Michael\Documents\cmpe_277_mobile_app_dev\ExerciseTracker\ExerciseTracker\Bin\Debug\WPControls.dll
+C:\Users\Michael\Documents\cmpe_277_mobile_app_dev\ExerciseTracker\ExerciseTracker\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\Michael\Documents\cmpe_277_mobile_app_dev\ExerciseTracker\ExerciseTracker\obj\Debug\App.g.cs
+C:\Users\Michael\Documents\cmpe_277_mobile_app_dev\ExerciseTracker\ExerciseTracker\obj\Debug\MainPage.g.cs
+C:\Users\Michael\Documents\cmpe_277_mobile_app_dev\ExerciseTracker\ExerciseTracker\obj\Debug\RecordPage.g.cs
+C:\Users\Michael\Documents\cmpe_277_mobile_app_dev\ExerciseTracker\ExerciseTracker\obj\Debug\SummaryPage.g.cs
+C:\Users\Michael\Documents\cmpe_277_mobile_app_dev\ExerciseTracker\ExerciseTracker\obj\Debug\ExerciseTracker.g.resources
+C:\Users\Michael\Documents\cmpe_277_mobile_app_dev\ExerciseTracker\ExerciseTracker\obj\Debug\ExerciseTracker.dll
+C:\Users\Michael\Documents\cmpe_277_mobile_app_dev\ExerciseTracker\ExerciseTracker\obj\Debug\ExerciseTracker.pdb
+C:\Users\Michael\Documents\cmpe_277_mobile_app_dev\ExerciseTracker\ExerciseTracker\obj\Debug\XapCacheFile.xml
+C:\Users\Michael\Documents\cmpe_277_mobile_app_dev\ExerciseTracker\ExerciseTracker\obj\Debug\ExerciseTracker.csprojResolveAssemblyReference.cache
